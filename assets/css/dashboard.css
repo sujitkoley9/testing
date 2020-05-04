@@ -1,0 +1,12 @@
+.dashboard-body {
+  height: 800px;
+  background: #f6f7f8;
+  background-size: cover;
+  position: relative;
+}
+
+.header-part {
+  background: linear-gradient(135deg, #172a74, #21a9af);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
